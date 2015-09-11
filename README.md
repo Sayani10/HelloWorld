@@ -1,2 +1,2 @@
 # HelloWorld
-This is a test application to learn Github
+This is a test application to learn GitRepository
