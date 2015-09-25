@@ -24,6 +24,13 @@
     myLabel.textColor = [UIColor brownColor];
     [self.view addSubview:myLabel];
     
+    
+    
+    UILabel *myLabel2 = [[UILabel alloc] initWithFrame:CGRectMake(200, 200, 200, 60)];
+    myLabel2.text = @"My Label";
+    myLabel2.textColor = [UIColor brownColor];
+    [self.view addSubview:myLabel2];
+    
 }
 
 - (void)didReceiveMemoryWarning {
